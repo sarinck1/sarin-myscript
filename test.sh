@@ -6,3 +6,4 @@ echo "command executed successfully"
 else
 echo "failed"
 fi
+echo "provide a number"
